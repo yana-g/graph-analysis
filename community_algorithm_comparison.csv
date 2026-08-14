@@ -1,0 +1,3 @@
+﻿Algorithm,Communities,Singleton Communities,Largest Community,Smallest Community,Average Size,Median Size,Modularity,Runtime (seconds)
+Louvain,85,18,297,1,29.847058823529412,5.0,0.4722690253619439,0.5768306440000401
+Label Propagation,162,18,1738,1,15.660493827160494,5.0,0.19194799000838217,0.31287990800001353

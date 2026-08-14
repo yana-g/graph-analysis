@@ -1,0 +1,7 @@
+﻿Measure 1,Measure 2,Shared Top-20 Actors,Overlap (%)
+Degree,Betweenness,16,80.0
+Degree,Closeness,12,60.0
+Degree,Eigenvector,9,45.0
+Betweenness,Closeness,14,70.0
+Betweenness,Eigenvector,10,50.0
+Closeness,Eigenvector,13,65.0
